@@ -6,13 +6,13 @@
 }
 
 body{
-    background-color: #ffffff;
+    background-color: #fff0f0;
     color:#000000;
     line-height:1.6;
 }
 header{
-    background:linear-gradient(135deg,S#45e2bb,#7cc0c2);
-    color:rgb(0, 0, 0);
+    background:linear-gradient(135deg,hsl(0, 100%, 52%),#000000);
+    color: white;
     padding:1rem 0;
     text-align: center;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -22,6 +22,6 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding:0 2rem;
-    background-color: #fff;
-    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+    background-color: #ffffff69;
+    box-shadow:0 2px 5px rgba(0, 0, 0, 0.1);
 }
